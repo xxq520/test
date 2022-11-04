@@ -1,0 +1,692 @@
+{
+  "airc": [
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557261",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557260",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557259",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557258",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "6",
+          "unit": "-",
+          "value": "6"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "运行",
+          "unit": "-",
+          "value": "2"
+        }
+      ],
+      "dn": "NE=33557257",
+      "deviceName": "HVAC-6",
+      "status": "NORMAL",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "3",
+          "unit": "-",
+          "value": "3"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "运行",
+          "unit": "-",
+          "value": "2"
+        }
+      ],
+      "dn": "NE=33557256",
+      "deviceName": "HVAC-3",
+      "status": "NORMAL",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "2",
+          "unit": "-",
+          "value": "2"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "运行",
+          "unit": "-",
+          "value": "2"
+        }
+      ],
+      "dn": "NE=33557255",
+      "deviceName": "HVAC-2",
+      "status": "NORMAL",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557254",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "4",
+          "unit": "-",
+          "value": "4"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "运行",
+          "unit": "-",
+          "value": "2"
+        }
+      ],
+      "dn": "NE=33557253",
+      "deviceName": "HVAC-4",
+      "status": "NORMAL",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557252",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557251",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557250",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "物理位置",
+          "realValue": "0",
+          "unit": "-",
+          "value": "0"
+        },
+        {
+          "enumMap": {},
+          "id": 10034,
+          "latestTime": 1667462009,
+          "name": "送风温度",
+          "realValue": "0.0",
+          "unit": "℃",
+          "value": "0.0"
+        },
+        {
+          "enumMap": {
+            "0": "关机",
+            "2": "运行",
+            "5": "故障"
+          },
+          "id": 10007,
+          "latestTime": 1667380426,
+          "name": "空调工作状态",
+          "realValue": "关机",
+          "unit": "-",
+          "value": "0"
+        }
+      ],
+      "dn": "NE=33557249",
+      "deviceName": "HVAC-0",
+      "status": "STANDBY",
+      "deviceMocId": 60022
+    }
+  ],
+  "dcdc": [
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "槽位号",
+          "realValue": "3",
+          "unit": "-",
+          "value": "3"
+        },
+        {
+          "id": 10010,
+          "name": "-",
+          "realValue": "-",
+          "unit": "-",
+          "value": "-"
+        },
+        {
+          "enumMap": {},
+          "id": 10022,
+          "latestTime": 1667462010,
+          "name": "电池侧电流1",
+          "realValue": "6.1",
+          "unit": "A",
+          "value": "6.1"
+        },
+        {
+          "enumMap": {},
+          "id": 10021,
+          "latestTime": 1667462010,
+          "name": "电池侧电压1",
+          "realValue": "0.9",
+          "unit": "V",
+          "value": "0.9"
+        },
+        {
+          "enumMap": {},
+          "id": 10025,
+          "latestTime": 1667462010,
+          "name": "电池侧电流2",
+          "realValue": "8.3",
+          "unit": "A",
+          "value": "8.3"
+        },
+        {
+          "enumMap": {},
+          "id": 10024,
+          "latestTime": 1667462010,
+          "name": "电池侧电压2",
+          "realValue": "0.0",
+          "unit": "V",
+          "value": "0.0"
+        }
+      ],
+      "dn": "NE=33556601",
+      "deviceName": "ESC-3",
+      "status": "NORMAL",
+      "deviceMocId": 60066
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "槽位号",
+          "realValue": "2",
+          "unit": "-",
+          "value": "2"
+        },
+        {
+          "id": 10010,
+          "name": "-",
+          "realValue": "-",
+          "unit": "-",
+          "value": "-"
+        },
+        {
+          "enumMap": {},
+          "id": 10022,
+          "latestTime": 1667462009,
+          "name": "电池侧电流1",
+          "realValue": "6.1",
+          "unit": "A",
+          "value": "6.1"
+        },
+        {
+          "enumMap": {},
+          "id": 10021,
+          "latestTime": 1667462009,
+          "name": "电池侧电压1",
+          "realValue": "0.9",
+          "unit": "V",
+          "value": "0.9"
+        },
+        {
+          "enumMap": {},
+          "id": 10025,
+          "latestTime": 1667462009,
+          "name": "电池侧电流2",
+          "realValue": "8.3",
+          "unit": "A",
+          "value": "8.3"
+        },
+        {
+          "enumMap": {},
+          "id": 10024,
+          "latestTime": 1667462009,
+          "name": "电池侧电压2",
+          "realValue": "0.0",
+          "unit": "V",
+          "value": "0.0"
+        }
+      ],
+      "dn": "NE=33555927",
+      "deviceName": "ESC-2",
+      "status": "NORMAL",
+      "deviceMocId": 60066
+    },
+    {
+      "signals": [
+        {
+          "enumMap": {},
+          "id": 11999,
+          "latestTime": 1667380426,
+          "name": "槽位号",
+          "realValue": "6",
+          "unit": "-",
+          "value": "6"
+        },
+        {
+          "id": 10010,
+          "name": "-",
+          "realValue": "-",
+          "unit": "-",
+          "value": "-"
+        },
+        {
+          "enumMap": {},
+          "id": 10022,
+          "latestTime": 1667462010,
+          "name": "电池侧电流1",
+          "realValue": "6.1",
+          "unit": "A",
+          "value": "6.1"
+        },
+        {
+          "enumMap": {},
+          "id": 10021,
+          "latestTime": 1667462010,
+          "name": "电池侧电压1",
+          "realValue": "0.9",
+          "unit": "V",
+          "value": "0.9"
+        },
+        {
+          "enumMap": {},
+          "id": 10025,
+          "latestTime": 1667462010,
+          "name": "电池侧电流2",
+          "realValue": "8.3",
+          "unit": "A",
+          "value": "8.3"
+        },
+        {
+          "enumMap": {},
+          "id": 10024,
+          "latestTime": 1667462010,
+          "name": "电池侧电压2",
+          "realValue": "0.0",
+          "unit": "V",
+          "value": "0.0"
+        }
+      ],
+      "dn": "NE=33555252",
+      "deviceName": "ESC-6",
+      "status": "NORMAL",
+      "deviceMocId": 60066
+    }
+  ],
