@@ -1,0 +1,542 @@
+{
+  "batClusterDn": "NE=33556606",
+  "batInformation": [
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "3",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-1",
+          "dn": "NE=33556575",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "2",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "64",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-2",
+          "dn": "NE=33556590",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "3",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "36",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-3",
+          "dn": "NE=33556719",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "4",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "99",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-4",
+          "dn": "NE=33556714",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "5",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "18",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-5",
+          "dn": "NE=33556611",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "6",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "82",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-6",
+          "dn": "NE=33556605",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "7",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "42",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-7",
+          "dn": "NE=33556631",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "8",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "59",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-8",
+          "dn": "NE=33556600",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "9",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "41",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-9",
+          "dn": "NE=33556596",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "10",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "41",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-10",
+          "dn": "NE=33556586",
+          "mocId": 60015,
+          "status": "Connected"
+      },
+      {
+          "batModelLocal": {
+              "bcuSignalId": 10043,
+              "bcuSignalName": "位置信息",
+              "bcuSignalValue": "11",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "visible": true,
+          "batteryState": {
+              "bcuSignalId": 10026,
+              "bcuSignalName": "运行状态",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": null,
+              "latestTime": 1667380426,
+              "bcuRealValue": "运行",
+              "batEnumMap": {
+                  "0": "待机",
+                  "1": "运行",
+                  "2": "休眠",
+                  "3": "离线",
+                  "4": "无效",
+                  "5": "故障",
+                  "10": "寿命终结",
+                  "49152": "载入中"
+              },
+              "bcuPrecision": 0,
+              "bcuDataType": "ENUM"
+          },
+          "batteryModuleSoc": {
+              "bcuSignalId": 10010,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "50",
+              "bcuSignalUnit": "%",
+              "latestTime": 1667462610,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "UINT"
+          },
+          "batModelName": "ESM-11",
+          "dn": "NE=33556696",
+          "mocId": 60015,
+          "status": "Connected"
+      },
