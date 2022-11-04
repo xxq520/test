@@ -541,3 +541,516 @@
           "batteryName": "#4",
           "status": "Connected"
       },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "81",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "2",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "0.00",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "0",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556574",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#5",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "5",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "1",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "0.13",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "180",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556900",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#6",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "80",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "20",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "1.67",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "0",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556896",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#7",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "48",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "62",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "1.96",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "0",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556877",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#8",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "35",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "32",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "1.81",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "152",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556861",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#9",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "92",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "16",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "0.00",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "15",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556617",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#10",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "9",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "68",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "0.00",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "0",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556580",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#11",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "76",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "39",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "0.00",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "105",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556663",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#12",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "42",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "62",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "0.00",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "179",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556640",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#13",
+          "status": "Connected"
+      },
+      {
+          "batteryModuleDn": "NE=33556575",
+          "batterySoh": {
+              "bcuSignalId": 10004,
+              "bcuSignalName": "SOH",
+              "bcuSignalValue": "11",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batterySoc": {
+              "bcuSignalId": 10003,
+              "bcuSignalName": "SOC",
+              "bcuSignalValue": "64",
+              "bcuSignalUnit": "%",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryTemperature": {
+              "bcuSignalId": 10002,
+              "bcuSignalName": "温度",
+              "bcuSignalValue": "0.00",
+              "bcuSignalUnit": "℃",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 2,
+              "bcuDataType": "FLOAT"
+          },
+          "batteryVoltage": {
+              "bcuSignalId": 10001,
+              "bcuSignalName": "电压",
+              "bcuSignalValue": "0",
+              "bcuSignalUnit": "mV",
+              "latestTime": 1666692601,
+              "bcuRealValue": null,
+              "batEnumMap": null,
+              "bcuPrecision": 0,
+              "bcuDataType": "USHORT"
+          },
+          "batteryDn": "NE=33556715",
+          "batteryModuleName": "ESM-1",
+          "batteryName": "#14",
+          "status": "Connected"
+      }
+  ],
+  "latestBatChipTime": 1666692601
+}
